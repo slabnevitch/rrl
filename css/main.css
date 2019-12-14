@@ -123,10 +123,6 @@ body {
   .rrl-solutions-text p {
     font-size: 17px;
     line-height: 22px; }
-  .rrl-solutions-text--wrapping h4 {
-    word-wrap: break-word; }
-  .rrl-solutions-text--wrapping h4 span {
-    word-wrap: break-word; }
 
 .rrl-solutions-icon {
   margin-left: 8px;
@@ -152,6 +148,10 @@ body {
   .rrl-solutions-row {
     padding-right: 15px;
     padding-left: 15px; }
+  .rrl-solutions-text--wrapping h4 {
+    word-wrap: break-word; }
+  .rrl-solutions-text--wrapping h4 span {
+    word-wrap: break-word; }
   .rrl-solutions-text h4 {
     font-size: 27px; } }
 
